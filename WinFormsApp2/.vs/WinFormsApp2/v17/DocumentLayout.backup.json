@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\dal\\jsonshotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\dal\\jsonshotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\dal\\ishotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\dal\\ishotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\bll\\firecontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bll\\firecontrolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\bll\\radarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bll\\radarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\bll\\weaponselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bll\\weaponselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\domain\\shotrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\domain\\shotrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\domain\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\domain\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\domain\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\domain\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\domain\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\domain\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\marti\\source\\repos\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A654508-5A82-4414-BE96-9C16698FD42D}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:32:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADgvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:32:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonShotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\DAL\\JsonShotRepository.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\DAL\\JsonShotRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\DAL\\JsonShotRepository.cs",
+              "RelativeToolTip": "WinFormsApp2\\DAL\\JsonShotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\DAL\\IShotRepository.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\DAL\\IShotRepository.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\DAL\\IShotRepository.cs",
+              "RelativeToolTip": "WinFormsApp2\\DAL\\IShotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:52.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FireControlService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\BLL\\FireControlService.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\BLL\\FireControlService.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\BLL\\FireControlService.cs",
+              "RelativeToolTip": "WinFormsApp2\\BLL\\FireControlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:48.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RadarService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\BLL\\RadarService.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\BLL\\RadarService.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\BLL\\RadarService.cs",
+              "RelativeToolTip": "WinFormsApp2\\BLL\\RadarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeaponSelector.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\BLL\\WeaponSelector.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\BLL\\WeaponSelector.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\BLL\\WeaponSelector.cs",
+              "RelativeToolTip": "WinFormsApp2\\BLL\\WeaponSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShotRecord.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\ShotRecord.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Domain\\ShotRecord.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\ShotRecord.cs",
+              "RelativeToolTip": "WinFormsApp2\\Domain\\ShotRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:37.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\Target.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Domain\\Target.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\Target.cs",
+              "RelativeToolTip": "WinFormsApp2\\Domain\\Target.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:33.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\Weapons.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Domain\\Weapons.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\Weapons.cs",
+              "RelativeToolTip": "WinFormsApp2\\Domain\\Weapons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\IWeapon.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Domain\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Domain\\IWeapon.cs",
+              "RelativeToolTip": "WinFormsApp2\\Domain\\IWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:31:23.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\WinFormsApp2\\WinFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:23:24.707Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
