@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Downloads\\Parcial1_GotussoGonzalo\\RobotUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\RobotUI1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Retroceder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IObserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarIzquierda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IAdvertenciaFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarDerecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\EstadoSistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Avanzar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\AdvertenciaFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Contracts\\IGenericBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Advertencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\DAL\\Contracts\\IGenericDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GirarIzquierda.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarIzquierda.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarIzquierda.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarIzquierda.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarIzquierda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdvertenciaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IAdvertenciaFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IAdvertenciaFactory.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IAdvertenciaFactory.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IAdvertenciaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:05.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GirarDerecha.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarDerecha.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarDerecha.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarDerecha.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\GirarDerecha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoSistema.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\EstadoSistema.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\EstadoSistema.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\EstadoSistema.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\EstadoSistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Avanzar.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Avanzar.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Avanzar.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Avanzar.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Avanzar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Negocio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Negocio.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Negocio.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:42:47.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IObserver.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IObserver.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:07.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retroceder.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Retroceder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Retroceder.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Retroceder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Retroceder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\RobotUI1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\RobotUI1\\Program.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\RobotUI1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\RobotUI1\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdvertenciaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\AdvertenciaFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\AdvertenciaFactory.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\AdvertenciaFactory.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\AdvertenciaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:42:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Contracts\\IGenericBLL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Contracts\\IGenericBLL.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Contracts\\IGenericBLL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\BLL\\Contracts\\IGenericBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:42:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Robot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Robot.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Robot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Robot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:10.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Sensor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Sensor.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Sensor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Sensor.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:43:14.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Advertencia.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Advertencia.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Advertencia.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Advertencia.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\Domain\\Advertencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:42:54.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\DAL\\Contracts\\IGenericDAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\DAL\\Contracts\\IGenericDAL.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\DAL\\Contracts\\IGenericDAL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Gonzalo\\Desktop\\Parcial1_GotussoGonzalo\\DAL\\Contracts\\IGenericDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:42:52.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
