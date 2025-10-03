@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\domain\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|solutionrelative:domain\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\domain\\bioniclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|solutionrelative:domain\\bioniclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\domain\\ultrasoniccannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|solutionrelative:domain\\ultrasoniccannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\domain\\shortrangecannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|solutionrelative:domain\\shortrangecannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\domain\\iweaponstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|solutionrelative:domain\\iweaponstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9290BB7-4E85-4326-AE51-E9474BDFF522}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9290BB7-4E85-4326-AE51-E9474BDFF522}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3EFD77-BA22-44C3-BB86-7A0AEF620BA6}|BLL\\BLL.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\bll\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3EFD77-BA22-44C3-BB86-7A0AEF620BA6}|BLL\\BLL.csproj|solutionrelative:bll\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F86121-4D22-4864-ABD6-89AFE81D9205}|DAL\\DAL.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\dal\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F86121-4D22-4864-ABD6-89AFE81D9205}|DAL\\DAL.csproj|solutionrelative:dal\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|c:\\users\\marti\\source\\repos\\consoleapp2\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E244595-B77B-4047-AB34-A90E255CACA0}|Domain\\Domain.csproj|solutionrelative:domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BionicLaser.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\BionicLaser.cs",
+              "RelativeDocumentMoniker": "Domain\\BionicLaser.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\BionicLaser.cs",
+              "RelativeToolTip": "Domain\\BionicLaser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:04:13.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UltrasonicCannon.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\UltrasonicCannon.cs",
+              "RelativeDocumentMoniker": "Domain\\UltrasonicCannon.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\UltrasonicCannon.cs",
+              "RelativeToolTip": "Domain\\UltrasonicCannon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:04:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortRangeCannon.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\ShortRangeCannon.cs",
+              "RelativeDocumentMoniker": "Domain\\ShortRangeCannon.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\ShortRangeCannon.cs",
+              "RelativeToolTip": "Domain\\ShortRangeCannon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:04:07.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeaponStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\IWeaponStrategy.cs",
+              "RelativeDocumentMoniker": "Domain\\IWeaponStrategy.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\IWeaponStrategy.cs",
+              "RelativeToolTip": "Domain\\IWeaponStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:04:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\Models.cs",
+              "RelativeDocumentMoniker": "Domain\\Models.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\Models.cs",
+              "RelativeToolTip": "Domain\\Models.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:01:50.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\Program.cs",
+              "RelativeDocumentMoniker": "Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\Domain\\Program.cs",
+              "RelativeToolTip": "Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:58:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\BLL\\Negocio.cs",
+              "RelativeDocumentMoniker": "BLL\\Negocio.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\BLL\\Negocio.cs",
+              "RelativeToolTip": "BLL\\Negocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:58:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\DAL\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\DAL\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:57:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:57:40.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
