@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "a2e4a98f-83d9-46f5-8636-cfc8cb29f0e2",
+    "Timestamp": "2025-10-03T23:39:09.2431934Z",
+    "TargetDistance": 5,
+    "WeaponUsed": "Ca\u00F1\u00F3n de Corto Alcance",
+    "WasSuccessful": true
+  },
+  {
+    "Id": "8c03a1bb-1f42-4728-87a8-e4693a9c1450",
+    "Timestamp": "2025-10-03T23:39:16.3551198Z",
+    "TargetDistance": 25,
+    "WeaponUsed": "Ca\u00F1\u00F3n Ultras\u00F3nico",
+    "WasSuccessful": true
+  },
+  {
+    "Id": "066276a0-df98-4583-9090-749825c5708d",
+    "Timestamp": "2025-10-03T23:39:17.8924753Z",
+    "TargetDistance": 150,
+    "WeaponUsed": "Rayo L\u00E1ser Destructor Bi\u00F3nico",
+    "WasSuccessful": true
+  }
+]
